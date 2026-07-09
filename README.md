@@ -42,5 +42,18 @@ The ESP32 collects data from multiple water quality sensors. The readings are pr
 - Instant cloud updates through Blynk IoT
 - Continuous monitoring for improved water quality assessment
 
+## 📸 Project Gallery
+
+| Blynk IoT | Circuit Diagram |
+|------------|-----------------|
+| ![](Images/Blynk%20iot%20application.jpeg) | ![](Images/circuit%20diagram.jpeg) |
+
+| Components | Working Model |
+|------------|---------------|
+| ![](Images/components.jpeg) | ![](Images/working.jpeg) |
+
+### LCD Display
+![](Images/display.jpeg)
+
 ## Author
 Prakriti Uriti
